@@ -40,3 +40,16 @@ Minesweeper is a classic logic-based puzzle game where players must uncover all 
 
 ```bash
 git clone https://github.com/shivani-d-13/Minesweeper-Python.git
+```
+
+> Navigate into the project directory
+
+```bash
+cd Minesweeper-Python
+```
+
+> To start playing Minesweeper, simply run the main Python file.
+
+```bash
+python ms_v07.py
+```
