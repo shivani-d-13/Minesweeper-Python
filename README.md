@@ -16,7 +16,7 @@ Minesweeper is a classic logic-based puzzle game where players must uncover all 
 
 ---
 
-## Demo
+## GUI
 
 ![Screenshot 2022-02-12 at 2 49 40 PM](https://github.com/user-attachments/assets/c68573a3-313f-4557-b447-4a2031dbffc8)
 ![Screenshot 2022-02-12 at 2 59 38 PM](https://github.com/user-attachments/assets/5d781485-b370-435c-8d46-52d3734b956b)
