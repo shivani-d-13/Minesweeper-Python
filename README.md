@@ -1,4 +1,4 @@
-# Project Title
+# Minesweeper
 
 Minesweeper is a classic logic-based puzzle game where players must uncover all non-mine cells on a grid without detonating any hidden mines. This project is a custom implementation of Minesweeper, built using Python, with features like Board Size, Display Settings, Mine Flagging.
 
