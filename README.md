@@ -51,5 +51,5 @@ cd Minesweeper-Python
 > To start playing Minesweeper, simply run the main Python file.
 
 ```bash
-python ms_v07.py
+python minesweeper.py
 ```
