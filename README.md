@@ -6,13 +6,13 @@ Minesweeper is a classic logic-based puzzle game where players must uncover all 
 
 ## Features
 
-- Classic Gameplay: Play the traditional Minesweeper with a grid of hidden mines that the player must uncover without detonating any.
-- Customizable Grid Size: Players can adjust the board size (e.g., small, medium, large) for varying difficulty levels.
-- Game Over Mechanism: If a player uncovers a mine, the game ends, and the player can see where all the mines were.
-- Win Condition: The player wins by uncovering all non-mine cells.
-- Restart Functionality: After winning or losing, the game allows restarting without quitting the application.
-- Basic UI: GUI using Tkinter
-- Scoring System: Tracks and displays player score based on number of wins and loses.
+- **Classic Gameplay**: Play the traditional Minesweeper with a grid of hidden mines that the player must uncover without detonating any.
+- **Customizable Grid Size**: Players can adjust the board size (e.g., small, medium, large) for varying difficulty levels.
+- **Game Over Mechanism**: If a player uncovers a mine, the game ends, and the player can see where all the mines were.
+- **Win Condition**: The player wins by uncovering all non-mine cells.
+- **Restart Functionality**: After winning or losing, the game allows restarting without quitting the application.
+- **Basic UI**: GUI using Tkinter
+- **Scoring System**: Tracks and displays player score based on number of wins and loses.
 
 ---
 
