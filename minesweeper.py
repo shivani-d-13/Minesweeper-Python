@@ -5,7 +5,6 @@
 import tkinter, random, os
 from tkinter import *
 
-#import winsound
 
 
 # CREATING GAME WINDOW
@@ -28,11 +27,11 @@ gameover = False
 
 #Insert image file location
 
-flag_image= PhotoImage(file='/Users/shivani.dinesh/Desktop/Shivani/12th archive/CS_Project/flag_final copy.png')
+flag_image= PhotoImage(file='flag_image.png')    #replace with path
 
 #Insert image file location
 
-mine_image = PhotoImage(file='/Users/shivani.dinesh/Desktop/Shivani/12th archive/CS_Project/mine1 copy.png')
+mine_image = PhotoImage(file='mine_image.png')    #replace with path
 
 
 bg1 = "#006D77"
